@@ -6,7 +6,7 @@ Face Generation from Celebrities Photos Using Generative Adversarial Networks (U
 
 The objective of this project is to generate new faces that look as realistic as possible by training a GAN with data from the CelebFaces Attributes Dataset (CelebA)
 
-![alt text](Celeba.png "celeba dataset")
+![Alt Text](http://mmlab.ie.cuhk.edu.hk/projects/CelebA/intro.png)
 
 # Model
 
